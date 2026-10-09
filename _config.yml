@@ -1,0 +1,14 @@
+title: Zion Iyes
+description: Photography, audio electronics repair and design.
+url: "https://zioniyes.me"
+baseurl: ""
+
+# No Jekyll theme. Without this, GitHub Pages applies its default theme (Minima).
+theme: null
+
+# Pages are built from the files in this repo; nothing here is a theme.
+# Files and folders starting with an underscore are not copied to the site.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

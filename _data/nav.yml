@@ -1,0 +1,8 @@
+# Site navigation. Edit here; the header include reads this list.
+# url: use a leading "/" for pages in this repo, or a full URL for other sites.
+- title: Photo gallery
+  url: https://zioniyes.github.io/gallery
+- title: Services
+  url: /services/
+- title: Contact
+  url: /contact/

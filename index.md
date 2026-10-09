@@ -1,8 +1,8 @@
-<img style="width: 200px; height: auto; margin: inherit auto;" src="/assets/img/zioniyes-rainbow-sm-trim.png" />
-
 ---
-
-[<i class="bi bi-camera"></i>Photo gallery](https://zioniyes.github.io/gallery) | [Services](services) | [Contact](contact)
+layout: default
+title: Home
+permalink: /
+---
 
 ## About me
 
@@ -30,4 +30,3 @@ You can contact me in various ways. The quickest way as of now, is to send me a 
 
 ---
 
-This site on GitHub: <https://github.com/ZionIyes/zioniyes.github.io> 

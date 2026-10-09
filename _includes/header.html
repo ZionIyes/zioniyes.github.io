@@ -1,0 +1,12 @@
+<header>
+  <nav>
+    <ul>
+      <li><a href="{{ '/' | relative_url }}"><img class="logo" src="{{ '/assets/img/zioniyes-rainbow-sm-trim.png' | relative_url }}" alt="{{ site.title }}"></a></li>
+    </ul>
+    <ul>
+      {% for item in site.data.nav %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

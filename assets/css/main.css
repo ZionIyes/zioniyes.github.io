@@ -1,0 +1,20 @@
+/* Site-specific overrides on top of Pico (loaded first in _includes/head.html).
+   All palette choices live in :root so they are changed in one place.
+   Pico variables: https://picocss.com/docs/css-variables */
+:root {
+  --pico-font-size: 100%;
+  --pico-primary: #1d4f91;
+  --pico-primary-hover: #163b6e;
+  --pico-muted-color: #5a5a5a;
+}
+
+.logo {
+  width: 200px;
+  height: auto;
+  margin: 0 0 1rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
